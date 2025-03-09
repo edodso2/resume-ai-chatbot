@@ -1,3 +1,14 @@
+---
+title: Resume AI Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: yellow
+sdk: gradio
+sdk_version: 5.20.0
+app_file: app.py
+pinned: false
+---
+
 # Resume Chatbot
 
 An AI powered virtual assistant that answers questions about my professional background using my resume database.
