@@ -1,0 +1,6 @@
+gradio
+langchain
+langchain-openai
+langchain_chroma
+langchain[docarray]
+dotenv
