@@ -23,7 +23,7 @@ def chat(message, history):
 # Simple chat UI
 demo = gr.ChatInterface(
     chat,
-    title="Simple Chat Assistant",
+    title="Eric Dodson Resume Chat Assistant",
     textbox=gr.Textbox(placeholder="Ask me anything..."),
 )
 
